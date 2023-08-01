@@ -1,4 +1,4 @@
-![image](https://github.com/BenchCouncil/IC-2023/assets/19257630/5a1ea88f-1230-4d48-b357-d47d63b3ba96)## IC 2023 Calls for Papers
+## IC 2023 Calls for Papers
 
 
 
