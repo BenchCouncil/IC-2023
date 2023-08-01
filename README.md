@@ -1,4 +1,4 @@
-## IC 2023 Calls for Papers
+![image](https://github.com/BenchCouncil/IC-2023/assets/19257630/5a1ea88f-1230-4d48-b357-d47d63b3ba96)## IC 2023 Calls for Papers
 
 
 
@@ -14,7 +14,7 @@ Web: https://www.benchcouncil.org/ic2023/
 
 ## Important Dates
 
-Paper Submission: July 31, 2023, at 11:59 PM AoE
+Paper Submission Due (full and short papers): Aug 31, 2023, 11:59 PM AoE
 
 Notification: September 30, 2023, at 11:59 PM AoE
 
@@ -680,6 +680,7 @@ Chuan Chen, Sun Yat-sen University, China
 
 Shajulin Benedict, Indian Institute of Information Technology, India
 
+Vishvak Murahari, Princeton University, USA
 
 
 AI for Ocean Science and Engineering
